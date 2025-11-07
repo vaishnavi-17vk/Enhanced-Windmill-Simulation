@@ -1,6 +1,7 @@
 # ===============================
 # OS-SPECIFIC FILES
 # ===============================
+.vscode/
 .DS_Store
 Thumbs.db
 desktop.ini

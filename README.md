@@ -144,18 +144,5 @@ Feel free to modify, share, and learn from it.
 
 ---
 
-## 🚀 **Ready to Upload to GitHub**
-
-### Steps to Push:
-```bash
-git init
-git add .
-git commit -m "Initial commit - Windmill Simulation OOP Project"
-git branch -M main
-git remote add origin https://github.com/<your-username>/windmill-simulation.git
-git push -u origin main
-```
-
----
 
 
