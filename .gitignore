@@ -1,0 +1,54 @@
+# ===============================
+# OS-SPECIFIC FILES
+# ===============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===============================
+# IDE / EDITOR CONFIGURATION
+# ===============================
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ===============================
+# BUILD FILES AND EXECUTABLES
+# ===============================
+*.exe
+*.dll
+*.obj
+*.o
+*.out
+*.pdb
+*.ilk
+*.log
+
+# ===============================
+# BACKUP AND TEMP FILES
+# ===============================
+*~
+*.bak
+*.tmp
+*.swp
+
+# ===============================
+# PROJECT SPECIFIC (OpenGL / FreeGLUT)
+# ===============================
+/bin/
+/lib/
+/include/GL/
+*.vs
+*.fs
+*.shader
+
+# ===============================
+# OTHER IGNORED FILES
+# ===============================
+/build/
+/dist/
+/Debug/
+/Release/
